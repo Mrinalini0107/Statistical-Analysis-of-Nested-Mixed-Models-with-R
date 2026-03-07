@@ -4,6 +4,9 @@
 > **Contact:** mrunalini0107@gmail.com | Mumbai – 400095
 
 ---
+[![R](https://img.shields.io/badge/Language-R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
+[![lme4](https://img.shields.io/badge/Package-lme4-brightgreen?style=flat)](https://cran.r-project.org/package=lme4)
+[![Status](https://img.shields.io/badge/Status-Complete-success?style=flat)]()
 
 ## 📋 Table of Contents
 
