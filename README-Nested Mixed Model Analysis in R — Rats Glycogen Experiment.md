@@ -1,7 +1,7 @@
 # Nested Mixed Model Analysis in R — Rats Glycogen Experiment
 
 > **Author:** Ms. Mrunalini (Data Science Trainer)  
-> **Contact:** mrunalini0107@gmail.com | +91-8850913582 | Mumbai – 400095
+> **Contact:** mrunalini0107@gmail.com | Mumbai – 400095
 
 ---
 
